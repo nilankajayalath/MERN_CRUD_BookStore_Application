@@ -27,3 +27,7 @@ I have built a new application on the Bookstore using MERN stack. It features ba
 
 # Delete Book :
 ![Screenshot (74)](https://github.com/user-attachments/assets/90e9e5f4-88d7-4e7b-9aab-fd88c17f5fa6)
+
+# Realtime Database interaction :
+
+![Screenshot (76)](https://github.com/user-attachments/assets/676dc698-352d-42c3-b06e-85fb5cb39b39)
